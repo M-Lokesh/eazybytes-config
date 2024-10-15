@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to lokesh accounts related  test APIs "
+  message: "Welcome to lokesh accounts related local  test APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
